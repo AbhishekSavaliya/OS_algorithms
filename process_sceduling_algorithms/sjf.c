@@ -72,7 +72,7 @@ void main()
 	printf("BT\t");
 	printf("CT\t");
 	printf("TAT\t");
-	printf("WT \n");
+	printf("WT\n");
 	for(int i = 0;i < no_of_process; i++)
 	{
 		printf("%d \t",list[i].at);
