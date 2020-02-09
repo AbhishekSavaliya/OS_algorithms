@@ -1,2 +1,2 @@
-# OS_sheduling_algorithms
-Operating System scheduling algorithms
+# OS_algorithms
+Operating System algorithms
