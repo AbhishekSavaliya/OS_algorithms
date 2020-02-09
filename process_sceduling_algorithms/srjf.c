@@ -83,5 +83,5 @@ int main()
 	}
 	printf("Avg Waiting Time : %.2f \n",((double)total_wt/no_of_process));
 	printf("Efficiency : %.2f \n",((double)no_of_process/(list[no_of_process-1].ct-list[0].at)));
-    return(0);
+    return(1);
 }
